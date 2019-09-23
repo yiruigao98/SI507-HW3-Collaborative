@@ -2,5 +2,7 @@
 This is the hw3 for SI507, with Yirui Gao and Yunzhe Jiang
 
 names   uniqnames   section number   github ID
-Yirui Gao   yiruigao   lab003   yiruigao98
-Yunzhe Jiang 
+
+  Yirui Gao   yiruigao   lab003   yiruigao98
+
+  Yunzhe Jiang 
